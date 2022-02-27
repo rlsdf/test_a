@@ -1,0 +1,23 @@
+{
+  "name": "test_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlsdf/test_a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlsdf/test_a/issues"
+  },
+  "homepage": "https://github.com/rlsdf/test_a#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nariku_lib_a": "^1.0.0"
+  }
+}
